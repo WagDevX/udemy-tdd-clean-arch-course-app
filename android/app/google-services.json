@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005704853490",
+    "project_id": "education-app-a9327",
+    "storage_bucket": "education-app-a9327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005704853490:android:0f2dac4e40d2b0f2fa1d6b",
+        "android_client_info": {
+          "package_name": "com.wsol.education.education_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEYAYIhTgZ-vhjk2lXAPbi_7EXHnqtLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
